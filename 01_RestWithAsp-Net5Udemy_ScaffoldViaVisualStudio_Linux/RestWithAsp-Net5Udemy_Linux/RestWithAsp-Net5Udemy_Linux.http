@@ -1,0 +1,6 @@
+@RestWithAsp_Net5Udemy_Linux_HostAddress = http://localhost:5041
+
+GET {{RestWithAsp_Net5Udemy_Linux_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
