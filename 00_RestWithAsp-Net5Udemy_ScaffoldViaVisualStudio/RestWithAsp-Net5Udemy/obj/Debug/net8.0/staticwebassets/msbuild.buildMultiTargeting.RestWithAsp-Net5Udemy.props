@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RestWithAsp-Net5Udemy.props" />
+</Project>
