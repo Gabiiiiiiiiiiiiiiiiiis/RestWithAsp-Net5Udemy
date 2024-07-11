@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RestWithAsp-Net5Udemy_Linux/1.0.0": {
+        "runtime": {
+          "RestWithAsp-Net5Udemy_Linux.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RestWithAsp-Net5Udemy_Linux/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
