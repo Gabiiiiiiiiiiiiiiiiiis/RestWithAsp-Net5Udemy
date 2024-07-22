@@ -1,0 +1,6 @@
+@_4_Verbos_principais_aplicação__HostAddress = http://localhost:5030
+
+GET {{_4_Verbos_principais_aplicação__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
