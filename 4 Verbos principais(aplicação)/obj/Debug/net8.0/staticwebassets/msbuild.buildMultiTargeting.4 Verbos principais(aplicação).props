@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\4 Verbos principais(aplicação).props" />
+</Project>
