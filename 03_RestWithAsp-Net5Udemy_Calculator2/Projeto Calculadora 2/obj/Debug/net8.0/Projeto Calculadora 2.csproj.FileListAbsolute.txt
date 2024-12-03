@@ -1,0 +1,26 @@
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\bin\Debug\net8.0\appsettings.Development.json
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\bin\Debug\net8.0\appsettings.json
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\bin\Debug\net8.0\Projeto Calculadora 2.exe
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\bin\Debug\net8.0\Projeto Calculadora 2.deps.json
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\bin\Debug\net8.0\Projeto Calculadora 2.runtimeconfig.json
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\bin\Debug\net8.0\Projeto Calculadora 2.dll
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\bin\Debug\net8.0\Projeto Calculadora 2.pdb
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\obj\Debug\net8.0\Projeto Calculadora 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\obj\Debug\net8.0\Projeto Calculadora 2.AssemblyInfoInputs.cache
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\obj\Debug\net8.0\Projeto Calculadora 2.AssemblyInfo.cs
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\obj\Debug\net8.0\Projeto Calculadora 2.csproj.CoreCompileInputs.cache
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\obj\Debug\net8.0\Projeto Calculadora 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\obj\Debug\net8.0\Projeto Calculadora 2.sourcelink.json
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\obj\Debug\net8.0\staticwebassets\msbuild.Projeto Calculadora 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\obj\Debug\net8.0\staticwebassets\msbuild.build.Projeto Calculadora 2.props
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Projeto Calculadora 2.props
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Projeto Calculadora 2.props
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\obj\Debug\net8.0\scopedcss\bundle\Projeto Calculadora 2.styles.css
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\obj\Debug\net8.0\Projeto Calculadora 2.dll
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\obj\Debug\net8.0\refint\Projeto Calculadora 2.dll
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\obj\Debug\net8.0\Projeto Calculadora 2.pdb
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\obj\Debug\net8.0\Projeto Calculadora 2.genruntimeconfig.cache
+C:\Gabriel\RestWithAsp-Net5Udemy\RestWithAsp-Net5Udemy\03_RestWithAsp-Net5Udemy_Calculator2\Projeto Calculadora 2\obj\Debug\net8.0\ref\Projeto Calculadora 2.dll
